@@ -47,3 +47,5 @@ compiled/
 *.dep
 
 # End of https://www.gitignore.io/api/macos,racket
+
+/inputs
